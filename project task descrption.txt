@@ -1,0 +1,39 @@
+#Mention id or email id : Srinivas Gali
+
+#Task Tittle : Landing Page
+
+#Task Description : This HTML code represents a webpage for "FitTrack - Smart Wearable Fitness Tracker." Here's a description of its structure and styles:
+
+				  *HTML Description:
+
+				   >The webpage begins with a standard HTML5 document structure.
+				   >It consists of a header, several sections, and a footer.
+				   >The header contains the website's title ("FitTrack") and a navigation menu with links to various sections like Features, About, Pricing, and Contact.
+				   >Each section provides different content such as an introduction to FitTrack, key features, information about FitTrack, pricing plans, and a contact form.
+				   >The footer contains copyright information.
+					
+				  *CSS Description:
+
+				   >The CSS code begins with a reset to remove default margin and padding on elements and sets the box-sizing property to border-box for consistent layout calculations.
+				   >Global styles are defined for the body, setting the font-family and line-height.
+				   >The container class sets the width to 80% and centers it horizontally.
+				   >Styles for the header include background color, text color, and padding. The logo and navigation are arranged using flexbox for better alignment.
+				   >The hero section has a background image, text color, and padding.
+				   >Buttons throughout the page have consistent styling with a background color, text color, padding, and border radius. Hover effects are also defined.
+				   >Sections have padding to provide spacing between content.
+				   >Heading 2 styles include a bottom margin, color, background color, and border-radius for styling.
+				   >Sectios include background color, text color, text alignment, and padding.ns with a gray background have a specific class for background color.
+				   >Features are centered with margin-bottom for spacing between them. Icon size and color are defined.
+				   >Pricing plans are also centered with specific font sizes for headings and paragraphs.
+				   >Footer style include background color, text color, text alignment, and padding.
+
+#Challenges Faced :How to adding the fonts on the html code, this is main challenges I am faced.
+
+#Solutions Implemented : after that solution to implement the fonts are, adding the font link html code and the code present in the fonts link.
+
+#Learnings :
+			1.How to add the font on the html code.
+			2.How to implement fonts on the code.
+			3.These two are mainly learning on them.
+
+#project Update :Completed.
